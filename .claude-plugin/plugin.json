@@ -1,0 +1,19 @@
+{
+  "name": "recap",
+  "description": "Summarize a Claude Code session as your questions paired with what Claude did - for returning to a long session without scrolling the whole transcript",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kishan",
+    "url": "https://github.com/kishan-nonte"
+  },
+  "homepage": "https://github.com/kishan-nonte/claude-recap",
+  "repository": "https://github.com/kishan-nonte/claude-recap",
+  "license": "MIT",
+  "keywords": [
+    "session",
+    "transcript",
+    "summary",
+    "recap",
+    "history"
+  ]
+}
